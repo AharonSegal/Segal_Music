@@ -5,12 +5,12 @@ const content = {
     title: "מורה למוזיקה ומפיק",
     subtitle: "שיעורי גיטרה, פסנתר, יוקללי ופיתוח קול | הפקה מוזיקלית",
     logo: "%PUBLIC_URL%/images/segal_logo.png",
-    image: "%PUBLIC_URL%/images/hero_image.jpg"
+    image: "%PUBLIC_URL%/images/hero_image.jpg",
   },
   about: [
     {
       icon: "Music",
-      text: "נולדתי ב-,1996 , נשוי +3, מנגן כל חיי על מגוון כלים ובעשור האחרון התחלתי ללמד מוזיקה ולהפיק שירים."
+      text: "נולדתי ב-,1996 , נשוי +4, מנגן כל חיי על מגוון כלים ובעשור האחרון התחלתי ללמד מוזיקה ולהפיק שירים."
     },
     {
       icon: "Award",
